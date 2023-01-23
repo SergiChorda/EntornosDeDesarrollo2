@@ -7,7 +7,7 @@ public class SumarNumeros {
     public static void main(String[] args) {
         // asi va el main
         // seguent linea de prova
-        // System.out.println
+        // asdfghjklñ
         System.out.println(SumarNumeros.sumerNumeros(2, 10.2));
 
     }
