@@ -1,5 +1,6 @@
 public class SumarNumeros{
     public static double sumerNumeros(double x, double y){
+        //asi es fa la suma
         return x+y;
     }
 
